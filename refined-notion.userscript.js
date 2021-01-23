@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Refined Notion
-// @namespace   Violentmonkey Scripts
+// @namespace   https://www.karlhorky.com/
 // @match       https://www.notion.so/*
 // @grant       none
 // @version     1.0
