@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Refined Notion
 // @description Improve Notion.so
-// @version     1.0
+// @version     1.0.0
 // @author      Karl Horky
 // @namespace   https://www.karlhorky.com/
 // @match       https://www.notion.so/*
