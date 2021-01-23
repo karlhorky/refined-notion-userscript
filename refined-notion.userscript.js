@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Refined Notion
-// @namespace   https://www.karlhorky.com/
+// @description Improve Notion.so
+// @author      Karl Horky
+// @version     1.0
 // @match       https://www.notion.so/*
 // @grant       none
-// @version     1.0
-// @author      Karl Horky
-// @description 1/23/2021, 11:45:43 AM
+// @namespace   https://www.karlhorky.com/
 // ==/UserScript==
 
 // Fix bug where Notion.so cmd-N shortcut overrides browser "New Window" shortcut
